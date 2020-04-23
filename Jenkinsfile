@@ -26,7 +26,7 @@ pipeline {
         stage('Push') {
             steps {
              
-                    sh './jenkins/push/push.sh
+                    sh './jenkins/push/push.sh'
     
             }
         
@@ -36,7 +36,7 @@ pipeline {
         stage('Deploy') {
             steps {
              
-                    sh './jenkins/deploy/deploy.sh
+                    sh './jenkins/deploy/deploy.sh'
 
             }
         
