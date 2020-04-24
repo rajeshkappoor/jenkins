@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "************************"
-echo "****Building JAR1 *******"
+echo "****Building JAR2 *******"
 echo "************************"
 
 WORKSPACE=/home/ubuntu/jenkins/jenkins_home/workspace/pipeline-docker-maven
